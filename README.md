@@ -1,16 +1,42 @@
-# React + Vite
+# Pye
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Pye — a project by vanta.nox.
 
-Currently, two official plugins are available:
+![Language](https://img.shields.io/badge/language-JavaScript-blue) ![License](https://img.shields.io/badge/license-MIT-green) ![GitHub](https://img.shields.io/github/stars/Ap-0007/pye?style=social)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 📖 About
 
-## React Compiler
+This repository contains the source code for **Pye**.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Tech Stack
 
-## Expanding the ESLint configuration
+- **Primary Language:** JavaScript
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Getting Started
+
+```bash
+# Clone the repository
+git clone https://github.com/Ap-0007/pye.git
+cd pye
+```
+
+```bash
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+```
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!  
+Feel free to open an [issue](https://github.com/Ap-0007/pye/issues) or submit a pull request.
+
+## 📄 License
+
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+
+---
+
+**Built by [vanta.nox](https://github.com/Ap-0007)**
